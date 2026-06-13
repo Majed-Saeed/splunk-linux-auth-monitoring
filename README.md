@@ -120,7 +120,7 @@ Splunk successfully identified failed SSH login events from the authentication l
 
 The real-time alert successfully triggered after detecting failed SSH login attempts.
 
-![Alert Trigger History](screenshots/failed-ssh-alert-trigger-history.png)
+![Alert Trigger History](screenshots/splunk-failed-ssh-alert-history.png)
 
 ---
 
